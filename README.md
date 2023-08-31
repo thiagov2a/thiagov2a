@@ -1,6 +1,6 @@
-<p align="center">
-  <strong>Estudiante de Sistemas y Desarrollador de Software</strong>
-</p>
+<h5 align="center">
+  Estudiante de Sistemas y Desarrollador de Software
+</h5>
 
 <h1 align="center">
   ¡Hola! 👋 Soy Thiago Joel Vildosa
