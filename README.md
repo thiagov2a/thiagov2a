@@ -1,4 +1,4 @@
-<strong aling="center">
+<strong align="center">
   Estudiante de Sistemas y Desarrollador de Software
 </strong>
 
