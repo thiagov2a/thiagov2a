@@ -12,4 +12,4 @@
 
 Tecnologías y habilidades en las que he trabajado:
 
-⚛️ Java | POO | MySQL | HTML & CSS | JavaScript
+⚛️ Java | POO | MySQL | HTML & CSS | JavaScript | React
