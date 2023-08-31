@@ -10,6 +10,6 @@
 
 👨🏼‍💻 Explorando y aprendiendo varias tecnologías de desarrollo
 
-Tecnologías y habilidades:
+Tecnologías y habilidades en las que he trabajado:
 
 ⚛️ Java | POO | MySQL | HTML & CSS | JavaScript
