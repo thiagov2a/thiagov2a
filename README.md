@@ -1,5 +1,5 @@
 <h4 align="center">
-  Estudiante de Sistemas y Desarrollador de Software
+  Estudiante de Sistemas y Desarrollador Web
 </h4>
 
 <h1 align="center">
