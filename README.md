@@ -14,6 +14,6 @@ Tecnologías y habilidades en las que he trabajado:
 
 ⚙️ HTML & CSS | JavaScript | React | Bootstrap
 
-🔙 Java | SpringBoot
+🔙 Java | SpringBoot | Python | Assembly
 
 💾 MySQL
