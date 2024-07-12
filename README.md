@@ -16,4 +16,4 @@ Tecnologías y habilidades en las que he trabajado:
 
 🔙 Java | SpringBoot | Python | Assembly
 
-💾 MySQL
+💾 MySQL | PostgreSQL
