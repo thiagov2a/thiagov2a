@@ -10,7 +10,7 @@
 - Actualmente estudio en la [Universidad Nacional de General Sarmiento (UNGS)](https://www.ungs.edu.ar/), dedicando la mayor parte de mi tiempo a mejorar mis conocimientos mediante cursos prácticos.
 
 🎓 **Formación y Experiencia**
-- **Técnico en Electrónica**: Graduado en la [Escuela de Educación Secundaria Técnica N°2 (EEST N°2)](https://ejemplos.com/) de José C. Paz.
+- **Técnico en Electrónica**: Graduado en la [Escuela de Educación Secundaria Técnica N°2 (EEST N°2)](https://www.facebook.com/eest2jcp/) de José C. Paz.
 - **Práctica Profesionalizante**: Experiencia práctica en la reparación y mantenimiento de equipos informáticos en [Telered](https://www.telered.com.ar).
 
 🚀 **Objetivo**
