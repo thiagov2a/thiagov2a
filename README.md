@@ -7,7 +7,7 @@
 </h3>
 
 📚 **Estudio Actual**
-- Actualmente estudio en la [Universidad Nacional de General Sarmiento (UNGS)](https://www.ungs.edu.ar/), dedicando la mayor parte de mi tiempo a mejorar mis conocimientos mediante cursos prácticos.
+- **Actualmente estudio en la [Universidad Nacional de General Sarmiento (UNGS)](https://www.ungs.edu.ar/), dedicando la mayor parte de mi tiempo a mejorar mis conocimientos mediante cursos prácticos.**
 
 🎓 **Formación y Experiencia**
 - **Técnico en Electrónica**: Graduado en la [Escuela de Educación Secundaria Técnica N°2 (EEST N°2)](https://www.facebook.com/eest2jcp/) de José C. Paz.
