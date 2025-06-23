@@ -51,6 +51,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiago-joel-vildosa/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"/></a>
+  <a href="https://www.linkedin.com/in/thiago-joel-vildosa/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=inspire&logoColor=0E76A8"/></a>
   <a href="https://github.com/thiagov2a"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
