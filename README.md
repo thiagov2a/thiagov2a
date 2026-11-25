@@ -43,7 +43,7 @@
       <div align="center">
         <p><sub><b>BACKEND & TESTING (CORE)</b></sub></p>
         <p>
-          <img src="https://img.shields.io/badge/Java-163464?style=for-the-badge&logo=openjdk&logoColor=4AA8F0&labelColor=0D1B2A" alt="Java" />
+          <img src="https://img.shields.io/badge/Java-163464?style=for-the-badge&logo=openjdk&logoColor=8ECAE6&labelColor=0D1B2A" alt="Java" />
           <img src="https://img.shields.io/badge/Spring_Boot-163464?style=for-the-badge&logo=spring-boot&logoColor=4AA8F0&labelColor=0D1B2A" alt="Spring Boot" />
           <img src="https://img.shields.io/badge/JUnit-163464?style=for-the-badge&logo=junit5&logoColor=8ECAE6&labelColor=0D1B2A" alt="JUnit" />
           <br/>
@@ -53,8 +53,8 @@
         </p>
         <p><sub><b>BASES DE DATOS</b></sub></p>
         <p>
-          <img src="https://img.shields.io/badge/PostgreSQL-163464?style=for-the-badge&logo=postgresql&logoColor=8ECAE6&labelColor=0D1B2A" alt="PostgreSQL" />
-          <img src="https://img.shields.io/badge/MySQL-163464?style=for-the-badge&logo=mysql&logoColor=8ECAE6&labelColor=0D1B2A" alt="MySQL" />
+          <img src="https://img.shields.io/badge/PostgreSQL-163464?style=for-the-badge&logo=postgresql&logoColor=F0F8FF&labelColor=0D1B2A" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/MySQL-163464?style=for-the-badge&logo=mysql&logoColor=F0F8FF&labelColor=0D1B2A" alt="MySQL" />
           <img src="https://img.shields.io/badge/SQLite-163464?style=for-the-badge&logo=sqlite&logoColor=F0F8FF&labelColor=0D1B2A" alt="SQLite" />
         </p>
         <p><sub><b>FRONTEND & DESARROLLO CON IA</b></sub></p>
@@ -71,12 +71,13 @@
         </p>
         <p><sub><b>BASE ACADÉMICA & ENTORNO</b></sub></p>
         <p>
-          <img src="https://img.shields.io/badge/Go-163464?style=for-the-badge&logo=go&logoColor=4AA8F0&labelColor=0D1B2A" alt="Go" />
+          <img src="https://img.shields.io/badge/Go-163464?style=for-the-badge&logo=go&logoColor=8ECAE6&labelColor=0D1B2A" alt="Go" />
           <img src="https://img.shields.io/badge/JavaScript-163464?style=for-the-badge&logo=javascript&logoColor=8ECAE6&labelColor=0D1B2A" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Assembly-163464?style=for-the-badge&logo=assemblyscript&logoColor=8ECAE6&labelColor=0D1B2A" alt="Assembly" />
+          <br/>
           <img src="https://img.shields.io/badge/HTML5-163464?style=for-the-badge&logo=html5&logoColor=F0F8FF&labelColor=0D1B2A" alt="HTML5" />
           <img src="https://img.shields.io/badge/CSS3-163464?style=for-the-badge&logo=css&logoColor=F0F8FF&labelColor=0D1B2A" alt="CSS3" />
           <br/>
-          <img src="https://img.shields.io/badge/Assembly-163464?style=for-the-badge&logo=assemblyscript&logoColor=8ECAE6&labelColor=0D1B2A" alt="Assembly" />
           <img src="https://img.shields.io/badge/Git-163464?style=for-the-badge&logo=git&logoColor=F0F8FF&labelColor=0D1B2A" alt="Git" />
           <img src="https://img.shields.io/badge/WSL-163464?style=for-the-badge&logo=linux&logoColor=4AA8F0&labelColor=0D1B2A" alt="WSL" />
           <img src="https://img.shields.io/badge/Docker-163464?style=for-the-badge&logo=docker&logoColor=4AA8F0&labelColor=0D1B2A" alt="Docker" />
