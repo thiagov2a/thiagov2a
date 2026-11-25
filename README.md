@@ -1,17 +1,11 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163464,50:2563EB,100:4AA8F0&height=160&section=header&text=Thiago%20Joel%20Vildosa&fontSize=36&fontColor=F0F8FF&fontAlignY=38&desc=Desarrollador%20de%20Software&descAlignY=58&descSize=16" width="100%" alt="Thiago Joel Vildosa - Desarrollador de Software" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163464,50:2563EB,100:4AA8F0&height=160&section=header&text=Thiago%20Joel%20Vildosa&fontSize=36&fontColor=F0F8FF&fontAlignY=38&desc=Software%20Developer%20-%20Soporte%20T%C3%A9cnico%20IT&descAlignY=58&descSize=16" width="100%" alt="Thiago Joel Vildosa, Software Developer y Soporte Técnico IT" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=4AA8F0&center=true&vCenter=true&width=580&height=35&lines=Estudiante+Avanzado+de+Sistemas+(UNGS);Backend%2C+Automatizacion+%26+Desarrollo+con+IA;QA+Testing+%26+Soporte+Tecnico" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=4AA8F0&center=true&vCenter=true&width=580&height=35&lines=Estudiante+Avanzado+de+Sistemas+%28UNGS%29;Process+Automation;AI-Assisted+Development+%26+Prompt+Engineering" alt="Estudiante avanzado de Sistemas (UNGS). Process Automation. AI-Assisted Development y Prompt Engineering." />
   <br/>
-  <a href="https://www.linkedin.com/in/thiagov2a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-163464?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzRBQThGMCI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJ6TTkgMTdINnYtN2gzdjd6TTcuNSA5LjJjLTEgMC0xLjgtLjgtMS44LTEuOHMuOC0xLjggMS44LTEuOCAxLjguOCAxLjggMS44LS44IDEuOC0xLjggMS44ek0xOCAxN2gtM3YtMy44YzAtMS4xLS40LTEuOC0xLjQtMS44LS44IDAtMS4yLjUtMS40IDEtLjEuMi0uMS41LS4xLjhWMTdoLTN2LTdoM3YxYy40LS42IDEuMS0xLjQgMi42LTEuNCAxLjkgMCAzLjQgMS4yIDMuNCAzLjlWMTd6Ii8+PC9zdmc+&labelColor=0D1B2A" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/thiagov2a" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-163464?style=for-the-badge&logo=github&logoColor=8ECAE6&labelColor=0D1B2A" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/thiagov2a/" title="Perfil de LinkedIn de Thiago Joel Vildosa">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-163464?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzRBQThGMCI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJ6TTkgMTdINnYtN2gzdjd6TTcuNSA5LjJjLTEgMC0xLjgtLjgtMS44LTEuOHMuOC0xLjggMS44LTEuOCAxLjguOCAxLjggMS44LS44IDEuOC0xLjggMS44ek0xOCAxN2gtM3YtMy44YzAtMS4xLS40LTEuOC0xLjQtMS44LS44IDAtMS4yLjUtMS40IDEtLjEuMi0uMS41LS4xLjhWMTdoLTN2LTdoM3YxYy40LS42IDEuMS0xLjQgMi42LTEuNCAxLjkgMCAzLjQgMS4yIDMuNCAzLjlWMTd6Ii8+PC9zdmc+&labelColor=0D1B2A" alt="Ir al perfil de LinkedIn de Thiago Joel Vildosa" />
   </a>
 </div>
 
@@ -23,7 +17,7 @@
       <h3 align="center">Sobre mí</h3>
       <p align="left">
         <sub><b>FORMACIÓN & PERFIL</b></sub><br/>
-        Estudiante avanzado de la <b>Licenciatura en Sistemas (<a href="https://www.ungs.edu.ar/" target="_blank" rel="noopener noreferrer">UNGS</a>)</b> y <b>Técnico en Electrónica</b>. Base sólida en POO, bases de datos relacionales, backend con <b>Java y Spring Boot</b>, y diagnóstico de hardware.
+        <b>Licenciatura en Sistemas (<a href="https://www.ungs.edu.ar/" title="Universidad Nacional de General Sarmiento">UNGS</a>)</b> y <b>Técnico en Electrónica</b>. Base sólida en <b>POO</b>, bases de datos relacionales y diagnóstico de hardware.
       </p>
       <p align="left">
         <sub><b>ACTUALIDAD</b></sub><br/>
@@ -31,11 +25,11 @@
       </p>
       <p align="left">
         <sub><b>LOGRO DESTACADO</b></sub><br/>
-        2.º puesto en el <i>1.er Hackatón Universitario UTEC</i> por <a href="https://github.com/thiagov2a/siga-app" target="_blank" rel="noopener noreferrer"><b>SIGA</b></a>, sistema de detección temprana de deserción universitaria.
+        2.º puesto en el <i>1.er Hackatón Universitario UTEC</i> por <a href="https://github.com/thiagov2a/siga-app" title="Repositorio de SIGA en GitHub"><b>SIGA</b></a>, sistema de detección temprana de deserción universitaria.
       </p>
       <p align="left">
         <sub><b>OBJETIVO</b></sub><br/>
-        Busco mi primera posición formal en <b>Desarrollo, QA o Soporte Técnico</b>, con foco en calidad de software y automatización de procesos.
+        Busco mi primera posición formal, con foco en <b>calidad de software</b> y <b>automatización de procesos</b>. Abierto a modalidad híbrida o remota (GBA/CABA).
       </p>
     </td>
     <td width="50%" valign="top">
@@ -90,4 +84,4 @@
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4AA8F0,50:2563EB,100:163464&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4AA8F0,50:2563EB,100:163464&height=100&section=footer" width="100%" alt="" />
