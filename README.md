@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163464,50:2563EB,100:4AA8F0&height=160&section=header&text=Thiago%20Joel%20Vildosa&fontSize=36&fontColor=F0F8FF&fontAlignY=38&desc=Software%20Developer%20-%20Soporte%20T%C3%A9cnico%20IT&descAlignY=58&descSize=16" width="100%" alt="Thiago Joel Vildosa, Software Developer y Soporte Técnico IT" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163464,50:2563EB,100:4AA8F0&height=160&section=header&text=Thiago%20Joel%20Vildosa&fontSize=36&fontColor=F0F8FF&fontAlignY=38&desc=Software%20Developer%20-%20IT%20%EF%BC%86%20Application%20Support&descAlignY=58&descSize=16" width="100%" alt="Thiago Joel Vildosa, Software Developer, IT & Application Support" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=4AA8F0&center=true&vCenter=true&width=580&height=35&lines=Estudiante+Avanzado+de+Sistemas+%28UNGS%29;Process+Automation;AI-Assisted+Development+%26+Prompt+Engineering" alt="Estudiante avanzado de Sistemas (UNGS). Process Automation. AI-Assisted Development y Prompt Engineering." />
